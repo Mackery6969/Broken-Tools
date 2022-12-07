@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="broken_tools_forge"
+version="1.0.0"
+displayName="Broken Tools Forge"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Mackery, MCreator"
+description='''
+adds tool rods and broken ones so when your tool breaks you can repair it
+'''
+
+[[dependencies.broken_tools_forge]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

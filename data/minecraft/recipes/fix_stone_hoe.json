@@ -1,0 +1,23 @@
+{
+  "group": "stone_hoe",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobblestone"
+    },
+    "1": {
+      "item": "minecraft:cobblestone"
+    },
+    "3": {
+      "item": "broken_tools_forge:fixed_tool_rod"
+    }
+  },
+  "result": {
+    "item": "minecraft:stone_hoe",
+    "count": 1
+  }
+}

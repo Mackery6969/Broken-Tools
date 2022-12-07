@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "broken_tools_forge:broken_tool_rod"
+  },
+  "addition": {
+    "tag": "minecraft:planks"
+  },
+  "result": {
+    "item": "broken_tools_forge:fixed_tool_rod"
+  }
+}

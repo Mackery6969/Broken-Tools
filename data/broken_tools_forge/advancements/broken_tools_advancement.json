@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "broken_tools_forge:broken_tool_rod"
+    },
+    "title": {
+      "translate": "advancements.broken_tools_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.broken_tools_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "broken_tools_advancement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

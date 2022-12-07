@@ -1,0 +1,10 @@
+{
+  "advancements.broken_tools_advancement.descr": "Repair your broken tools",
+  "advancements.builder.title": "Repairmen",
+  "advancements.broken_tools_advancement.title": "Broken Tools",
+  "gamerule.toolsBreakOffTop.description": "when a tool breaks you keep the broken tool rod",
+  "advancements.builder.descr": "Repair a tool",
+  "item.broken_tools_forge.broken_tool_rod": "Broken Tool Rod",
+  "gamerule.toolsBreakOffTop": "doToolsTopBreakingOff",
+  "item.broken_tools_forge.fixed_tool_rod": "Fixed Tool Rod"
+}
